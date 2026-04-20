@@ -41,7 +41,6 @@ Analiza danych sprzedażowych firmy **SuperStore** obejmująca czyszczenie danyc
 <img width="1912" height="633" alt="obraz" src="https://github.com/user-attachments/assets/5dc38b11-0758-4aa9-9531-a0f5687df85e" />
 <img width="1853" height="255" alt="obraz" src="https://github.com/user-attachments/assets/7d92923d-fe34-4ca6-91ca-2f38bf208cb1" />
 <img width="1187" height="580" alt="obraz" src="https://github.com/user-attachments/assets/1c7d525a-0738-4b5e-8e61-8ce2226a9902" />
-
 parę z tych operacji zostanie wykonana ponownie w środowisku PowerBI, te insght'y służą jako walidacja o niepopełnieniu błędu w miarach.
 ---
 
