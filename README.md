@@ -100,9 +100,10 @@ Dashboard w **Power BI** zawiera:
 - 📊 Wykresy porównawcze produktów i kategorii  
 - 🎯 KPI i metryki biznesowe  
 - 🔍 Interaktywne filtry i slicery  
-<img width="1178" height="663" alt="obraz" src="https://github.com/user-attachments/assets/0b51eb02-1e34-4e0e-9f8d-33f5fc229b84" />
-<img width="1182" height="666" alt="obraz" src="https://github.com/user-attachments/assets/cf30f658-76c4-46bd-a775-a54fafea7afd" />
-<img width="1182" height="657" alt="obraz" src="https://github.com/user-attachments/assets/33ff5ee4-47d2-4434-8209-0e206fec722b" />
+<img width="1182" height="662" alt="obraz" src="https://github.com/user-attachments/assets/bb62447a-9c0a-441e-8fb9-4fdd59c95945" />
+<img width="1177" height="657" alt="obraz" src="https://github.com/user-attachments/assets/786c60d9-497c-4171-9686-fd6be2bb9274" />
+<img width="1180" height="656" alt="obraz" src="https://github.com/user-attachments/assets/71c970e6-18b1-4a26-9a3e-77e3a0ffaf65" />
+
 
 ---
 
