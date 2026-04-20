@@ -98,6 +98,9 @@ parę z tych operacji zostanie wykonana ponownie w środowisku PowerBI, te insgh
 ## 📊 Wizualizacje
 
 Dashboard w **Power BI** zawiera:
+<img width="1181" height="657" alt="obraz" src="https://github.com/user-attachments/assets/89826c3e-da21-46ac-bc62-692ee2fb0486" />
+<img width="1178" height="656" alt="obraz" src="https://github.com/user-attachments/assets/54e6ec96-ece9-4634-96c6-5cc806f60f35" />
+<img width="1180" height="661" alt="obraz" src="https://github.com/user-attachments/assets/86d20b57-ebc6-443c-8563-b87db60bbb42" />
 
 - 📉 Trendy sprzedażowe i zyskowności w czasie  
 - 🗺️ Mapy geograficzne wydajności sprzedaży  
