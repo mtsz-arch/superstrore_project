@@ -51,7 +51,11 @@ parę z tych operacji zostanie wykonana ponownie w środowisku PowerBI, te insgh
 - `order_month` – miesiąc zamówienia  
 - `order_quarter` – kwartał zamówienia  
 - `profit_margin` – marża zysku
-  
+- `customer segment` – "Low Value", "Medium Value", " High Value", "VIP"
+- `DayOfWeek` – dzien tygodnia
+- `YearMonth` – Rok i miesiąc zamówienia
+
+
 ## 🔍 3. Przeprowadzone analizy
 
 ### 📈 Analiza sprzedaży i zyskowności
@@ -100,9 +104,7 @@ Dashboard w **Power BI** zawiera:
 - 📊 Wykresy porównawcze produktów i kategorii  
 - 🎯 KPI i metryki biznesowe  
 - 🔍 Interaktywne filtry i slicery  
-<img width="1182" height="662" alt="obraz" src="https://github.com/user-attachments/assets/bb62447a-9c0a-441e-8fb9-4fdd59c95945" />
-<img width="1177" height="657" alt="obraz" src="https://github.com/user-attachments/assets/786c60d9-497c-4171-9686-fd6be2bb9274" />
-<img width="1180" height="656" alt="obraz" src="https://github.com/user-attachments/assets/71c970e6-18b1-4a26-9a3e-77e3a0ffaf65" />
+
 
 
 ---
@@ -111,20 +113,15 @@ Dashboard w **Power BI** zawiera:
 
 ### 💰 Rentowność produktów
 
-- Identyfikacja kategorii o najwyższej marży  
-- Wykrycie produktów generujących straty  
+- Kategoriami z najwyższą marżą są Office Supplies i Technology
+- Jedynym produktem generującym stratę jest  Eureka Disposable Bags for Sanitaire Vibra Groomer 
 
 ### 🌍 Segmentacja geograficzna
 
-- Najlepiej performujące regiony  
-- Obszary wymagające dodatkowej uwagi  
+- Najlepiej dochodowym krajem są Stany Zjednoczone 
+- Obszarem wymagającym dodatkowej uwagi jest Kanada, ma najniższą ilość sprzedaży
 
 ### ⚙️ Optymalizacja procesów
 
-- Rekomendacje dotyczące metod wysyłki  
-- Usprawnienie obsługi zamówień priorytetowych  
+- Największa mediana czasu wysyłki jest w klasie standardowej, czyli tej najpopularniejszej 
 
-### 👥 Profile klientów
-
-- Charakterystyka segmentów klientów  
-- Wzorce zakupowe według grup  
