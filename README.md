@@ -32,9 +32,9 @@ Analiza danych sprzedażowych firmy **SuperStore** obejmująca czyszczenie danyc
 ##  1. Przygotowanie danych
 
 - Import i walidacja danych ze źródła `SuperStoreOrders.csv`
- <img width="1915" height="810" alt="obraz" src="https://github.com/user-attachments/assets/12710995-d6f9-41b7-ba5d-5ae74ad18226" />
+
 - Konwersja typów danych (numeryczne, kategoryczne, daty)
-  <img width="1913" height="698" alt="obraz" src="https://github.com/user-attachments/assets/9b692e86-8b9a-4aeb-b8ba-cbe5cb94af51" /> 
+
 - Standaryzacja formatów liczbowych (obsługa separatorów tysięcznych)
 - wstępne insight'y 
 <img width="1912" height="816" alt="obraz" src="https://github.com/user-attachments/assets/b1274fc8-952a-41e1-a5da-71a4061d4e9f" />
@@ -48,12 +48,9 @@ parę z tych operacji zostanie wykonana ponownie w środowisku PowerBI, te insgh
 ## ⚙️ 2. Feature Engineering
 
 ### Nowe zmienne analityczne:
-<img width="751" height="62" alt="obraz" src="https://github.com/user-attachments/assets/0533c8ee-70fa-4bce-b9f4-640883437667" />
-
 - `order_year` – rok zamówienia  
 - `order_month` – miesiąc zamówienia  
 - `order_quarter` – kwartał zamówienia  
-<img width="1420" height="235" alt="obraz" src="https://github.com/user-attachments/assets/d406d36a-7b0a-485f-bd5c-8a8ecbf6e15e" />
 - `profit_margin` – marża zysku
   
 ## 🔍 3. Przeprowadzone analizy
@@ -85,8 +82,7 @@ parę z tych operacji zostanie wykonana ponownie w środowisku PowerBI, te insgh
 ### 👥 Segmentacja klientów
 
 - Podział na segmenty (*Consumer, Corporate, Home Office*)  
-- Analiza zachowań zakupowych  
-- Wartość życiowa klienta (CLV)  
+- Analiza zachowań zakupowych    
 
 ### 🔗 Analiza korelacji
 
@@ -105,6 +101,9 @@ Dashboard w **Power BI** zawiera:
 - 📊 Wykresy porównawcze produktów i kategorii  
 - 🎯 KPI i metryki biznesowe  
 - 🔍 Interaktywne filtry i slicery  
+<img width="1178" height="663" alt="obraz" src="https://github.com/user-attachments/assets/0b51eb02-1e34-4e0e-9f8d-33f5fc229b84" />
+<img width="1182" height="666" alt="obraz" src="https://github.com/user-attachments/assets/cf30f658-76c4-46bd-a775-a54fafea7afd" />
+<img width="1182" height="657" alt="obraz" src="https://github.com/user-attachments/assets/33ff5ee4-47d2-4434-8209-0e206fec722b" />
 
 ---
 
