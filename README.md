@@ -1,36 +1,37 @@
 Analiza sprzedaży i rentowności firmy e-commerce
 Kompleksowa analiza danych sprzedażowych firmy SuperStore obejmująca czyszczenie danych, eksploracyjną analizę danych (EDA), feature engineering oraz budowę interaktywnego dashboardu w Power BI.
-
+---
 Cele projektu:
-
+---
 📈 Analiza trendów sprzedażowych i rentowności
 🌍 Segmentacja geograficzna i rynkowa
 👥 Profilowanie klientów według zachowań zakupowych
 ⏱️ Optymalizacja procesów wysyłki
 📊 Stworzenie interaktywnego dashboardu do monitorowania KPI
-
+---
 🛠️ Technologie
+---
 Python & Biblioteki
 
 pandas - manipulacja i analiza danych
 matplotlib - wizualizacja danych
 NumPy - operacje numeryczne
 Google Colab - środowisko deweloperskie
-
+---
 Business Intelligence
-
+---
 Power BI - interaktywne dashboardy i raporty
+---
 
-📊 Analiza danych
 1. Przygotowanie danych
+   
+Import i walidacja danych ze źródła SuperStoreOrders.csv
+Obsługa brakujących wartości
+Konwersja typów danych (numeryczne, kategoryczne, daty)
+Parsowanie dat w formacie dd/mm/yyyy
+Standaryzacja formatów liczbowych (obsługa separatorów tysięcznych)
 
-✅ Import i walidacja danych ze źródła SuperStoreOrders.csv
-✅ Obsługa brakujących wartości
-✅ Konwersja typów danych (numeryczne, kategoryczne, daty)
-✅ Parsowanie dat w formacie dd/mm/yyyy
-✅ Standaryzacja formatów liczbowych (obsługa separatorów tysięcznych)
-
-2. Feature Engineering
+3. Feature Engineering
 Utworzone nowe zmienne analityczne:
 
 order_year - rok zamówienia
