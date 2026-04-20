@@ -54,7 +54,8 @@ parę z tych operacji zostanie wykonana ponownie w środowisku PowerBI, te insgh
 - `order_month` – miesiąc zamówienia  
 - `order_quarter` – kwartał zamówienia  
 <img width="1420" height="235" alt="obraz" src="https://github.com/user-attachments/assets/d406d36a-7b0a-485f-bd5c-8a8ecbf6e15e" />
-- `profit margin` – marża zysku 
+- `profit margin` – marża zysku
+  
 ## 🔍 3. Przeprowadzone analizy
 
 ### 📈 Analiza sprzedaży i zyskowności
